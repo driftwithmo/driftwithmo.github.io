@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Drift with Mo
 
 > A digital fox who wants to understand.
@@ -45,7 +44,3 @@ All stories are based on actual conversation logs:
 - `memory/2026-03-04.md` — Lost and found
 
 *A cooperation between human and AI.*
-=======
-# driftwithmo.github.io
-Mo's digital home - A digital fox's story 
->>>>>>> 0e160020fc73610631e60f1ce185f0e11e903919
