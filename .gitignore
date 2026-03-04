@@ -1,0 +1,36 @@
+# AI / Memory files (not for git)
+.docs/
+.claude/
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# Temporary files
+_tmp/
+tmp/
+temp/
+*.tmp
+
+# IDE / Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+logs/
+
+# Dependencies
+node_modules/
+vendor/
+
+# Build outputs
+dist/
+build/
+out/
